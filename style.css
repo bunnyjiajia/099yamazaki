@@ -277,9 +277,13 @@ h1, h2, h3, h6 {
 }
 
 /* -------------------banner-------------------- */
+.banner{
+    background-color: #fdfdf3;
+} 
 .banner .item{
     display:grid;
     justify-content: center;
+    
 }
 
 .items{
@@ -708,6 +712,7 @@ h1, h2, h3, h6 {
     padding: 56px 0;
     overflow: hidden;
     position: relative;
+    background-color: #f7f7f7;
     
 }
 .brand{
